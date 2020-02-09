@@ -1,0 +1,10 @@
+{
+  "name": "react-chessboard-ts",
+  "version": "0.0.1",
+  "description": "React chessboard written in TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/tysmithnet/react-chessboard-ts.git",
+  "author": "@tysmithnet",
+  "license": "GPL 3.0",
+  "private": false
+}
